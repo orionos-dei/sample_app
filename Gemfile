@@ -15,7 +15,9 @@ gem 'bootstrap-sass'
 gem 'bcrypt', '~> 3.1.7'
 gem 'jquery-rails', '~> 4.3.1'
 gem 'jquery-ui-rails', '~> 5.0.5'
-
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
